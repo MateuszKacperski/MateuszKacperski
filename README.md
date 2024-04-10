@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>I'm <strong>Mateusz</strong>, a 28-year-old boy <strong>FULL STACK WEB DEVELOPER</strong>.</p>
+<p>I'm <strong>Mateusz</strong>, a 28 years old  <strong>FULL STACK WEB DEVELOPER</strong>.</p>
 
 <p>
 I had the opportunity to be a student of the Boolean school which started a more professional study of my passions related to the world of the web.
