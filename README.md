@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./img/linkedin_copertina.png">
+	<img src="./img/funcode.jpg">
 </p>
 
 <h1 align="center">👋 Hi, welcome on my GitHub !</h1>
